@@ -1,3 +1,3 @@
-# Zurracapoteconf
+# Consciencia Artificial    
 
-Repositorio para el evento en La Rioja sobre tecnologías
+Repositorio para las conferencias Consciencia Artificial
